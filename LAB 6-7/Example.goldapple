@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ProductRequestDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Filled>2018-05-18T12:19:54.0608032+05:00</Filled>
+  <FullName>Clinique Face Cream Hibrid</FullName>
+  <Description>
+    <Description>
+      <Price>599</Price>
+      <Currency>Rubles</Currency>
+      <Color>White</Color>
+      <Amount>30</Amount>
+      <Code>12345567</Code>
+      <Type>MassMarket</Type>
+    </Description>
+    <Description>
+      <Price>25</Price>
+      <Currency>Dollars</Currency>
+      <Color>Nude</Color>
+      <Amount>15</Amount>
+      <Code>987658463</Code>
+      <Type>Lux</Type>
+    </Description>
+  </Description>
+  <Brend>Clinique</Brend>
+  <Currency>Rubles</Currency>
+</ProductRequestDto>
